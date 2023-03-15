@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "edge-impulse-sdk/cmake/zephyr",
+		"source" : "edge-impulse-sdk/cmake/zephyr"
+	}
+}

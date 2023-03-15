@@ -1,0 +1,3 @@
+C:/Pico/accel_data_collection/build/pioasm/CMakeFiles/pioasm.dir
+C:/Pico/accel_data_collection/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Pico/accel_data_collection/build/pioasm/CMakeFiles/rebuild_cache.dir

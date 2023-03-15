@@ -1,0 +1,8 @@
+<sld_project_info>
+  <file_info>
+    <file checksum="0x00051B9A" device="EP1C3T144C8" path="gesture_display.sof" usercode="0xFFFFFFFF"/>
+    <file checksum="0x01A8A6B0" device="EPCS1" path="gesture_display.pof" usercode="0x00000000"/>
+  </file_info>
+  <hub_info ir_width="0" node_count="0"/>
+  <node_info/>
+</sld_project_info>
